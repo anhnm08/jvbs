@@ -1,3 +1,3 @@
 # jvbs
 //hello world!
-// edit local
+// edit on server
