@@ -23,3 +23,23 @@
 hs_err_pid*
 replay_pid*
 .DS_Store
+# các file cần loại bỏ trong src Selenium Java
+bin/
+out/
+#tự sinh mỗi lần chạy nên ko cần push lên
+.idea/
+.allure/
+allure-results/
+ExportData/
+ExtentReports/
+logs/
+target/
+test-output/
+reports/
+*.png
+*.jpg
+*.mp4
+*.avi
+*.zip
+#tự sinh mỗi lần chạy nên ko cần push lên
+*.iml
