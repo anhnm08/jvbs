@@ -16,7 +16,6 @@ public class mang1Chieu {
         }
         */
 
-         */
 
         System.out.println(songuyen[6]); //lấy ra 1 giá trị cụ thể
 
